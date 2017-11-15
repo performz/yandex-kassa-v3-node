@@ -1,6 +1,6 @@
 {
   "name": "yandex-kassa-v3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Yandex.Kassa API v3",
   "main": "./lib/index.js",
   "scripts": {
